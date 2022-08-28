@@ -1,7 +1,7 @@
 [
 
     {
-        "ShowAdAfterNumberOfDeath": "2",
+        "ShowAdAfterNumberOfDeath": "5",
         "CanShowAdPromo": "yes",
         "AppUrl": ""
     }
