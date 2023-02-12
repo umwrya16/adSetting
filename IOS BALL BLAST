@@ -2,7 +2,7 @@
 
     {
         "ShowAdAfterNumberOfDeath": "5",
-        "CanShowAdPromo": "2",
-        "AppUrl": ""
+        "LoadFrom": "whc",
+        "AppUrl": "load from can be whc or github"
     }
 ]
