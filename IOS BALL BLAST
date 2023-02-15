@@ -2,7 +2,7 @@
 
     {
         "ShowAdAfterNumberOfDeath": "5",
-        "CanShowAdPromo": "whc",
+        "CanShowAdPromo": "github",
         "AppUrl": "CanShowAdPromo is set to github then data will load from github"
     }
 ]
